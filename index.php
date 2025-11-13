@@ -43,8 +43,8 @@
 
         <!-- Contacto -->
         <div class="contact-section">
-            <a href="https://wa.link/83j9g6" target="_blank" class="contact-link">
-                CONTACTO: +57 300 9612723
+            <a href="https://wa.link/6dkr47" target="_blank" class="contact-link">
+                CONTACTO: +57 300 941 4666
             </a>
         </div>
 
@@ -58,7 +58,7 @@
     </div>
 
     <!-- Botón flotante de WhatsApp -->
-    <a href="https://wa.link/ranteo" target="_blank" class="whatsapp-float">
+    <a href="https://wa.link/6dkr47" target="_blank" class="whatsapp-float">
         <img src="img/whatsapp.png" alt="WhatsApp">
     </a>
 

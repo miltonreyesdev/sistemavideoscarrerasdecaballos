@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', function () {
     // Configurar el botón de apuestas
     document.getElementById('betButton').addEventListener('click', function () {
-        window.open('https://wa.link/83j9g6', '_blank');
+        window.open('https://wa.link/6dkr47', '_blank');
     });
 
     // Configurar el botón de Telegram
